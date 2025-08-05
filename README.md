@@ -19,7 +19,6 @@ This project was created for my VISST PHE 10 class to help people build healthie
 3. Choose **“Open with Live Server”**
 
 This will start a local server on port 5500.  
-Visit: [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
 ---
 
