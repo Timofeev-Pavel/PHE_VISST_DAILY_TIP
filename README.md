@@ -23,4 +23,4 @@ This will start a local server on port 5500.
 ---
 
 ## License
-[MIT](https://opensource.org/license/mit/)
+[MIT](https://mit-license.org/)
